@@ -3,3 +3,6 @@ dist/
 build/
 .env
 workspace/
+config.json/
+package.json/
+package-lock.json/
